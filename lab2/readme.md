@@ -75,7 +75,7 @@ This lab demonstrates a **basic SSRF vulnerability** where the application fetch
 * After scan completes, sort by **Status** or **Length**
 * One of them will return `200 OK` (the rest may be `403`, `404`, etc.)
 
-📸 *Placeholder:* `./screenshots/host_found.png`
+📸 *Placeholder:* `https://github.com/Kabilala/ssrf/blob/main/lab2/host_found.png`
 
 ---
 
