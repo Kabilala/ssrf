@@ -98,9 +98,5 @@ This basic SSRF lab highlights how unvalidated URL inputs can lead to significan
 
 
 🖼️ Screenshot
-(Insert a screenshot showing the slow server response or Burp timing — if you captured it)
 
-md
-Copy
-Edit
 ![ssrf](https://github.com/Kabilala/ssrf/blob/main/lab1/lab1.png)
