@@ -124,16 +124,3 @@ If successful, the lab is marked as **Solved ✅**
 * Use allowlists for approved domains only
 * Avoid passing full URLs from user-controlled input
 * Monitor DNS + outbound HTTP requests for anomalies
-
----
-
-## 📁 Suggested Folder Structure
-
-```
-
-
----
-
-## ✅ Conclusion
-
-This lab demonstrates how **basic SSRF** vulnerabilities can lead to **internal service discovery** and **unauthorized actions**, such as account deletion — proving why SSRF is a **critical web vulnerability** in real-world applications and cloud environments.
