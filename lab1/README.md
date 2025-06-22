@@ -103,4 +103,4 @@ This basic SSRF lab highlights how unvalidated URL inputs can lead to significan
 md
 Copy
 Edit
-![ssrf](https://github.com/kabilala/ssrf/blob/main/images/lab1.png?raw=true)
+![ssrf](https://github.com/Kabilala/ssrf/blob/main/lab1/lab1.png)
